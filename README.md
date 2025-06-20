@@ -1,49 +1,48 @@
 # 📅 Interactive Calendar UI
 
-The **Interactive Calendar UI** is a responsive and dynamic calendar interface built with **HTML**, **CSS**, and **JavaScript**. It allows users to easily navigate through different months, view dates, and visually identify the current day — all while maintaining a smooth and intuitive user experience.
+The **Interactive Calendar UI** is a responsive and dynamic calendar interface built with **HTML**, **CSS**, and **JavaScript**. It allows users to seamlessly navigate through months, view date grids, and visually identify the current day — all while providing a clean and intuitive user experience.
 
-This project is a great demonstration of front-end development skills, including DOM manipulation, responsive design, and UI/UX enhancement using pure JavaScript and CSS.
+This project is a great demonstration of front-end development skills, including DOM manipulation, responsive layout design, and interactive UI building using pure JavaScript.
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 [Live Demo](#https://anjalitak-dev.github.io/Calendar/) 
+🔗 [Click here to view the live calendar](https://anjalitak-dev.github.io/Calendar/)
 
 ---
 
 ## ✨ Features
 
 - 🔁 **Month Navigation**  
-  Users can move forward or backward between months using interactive **left** and **right arrow buttons**.
+  Navigate between months using intuitive left/right arrow buttons.
 
 - 📆 **Current Month & Year Display**  
-  Dynamically shows the current month and year at the top of the calendar.
+  Displays the active month and year dynamically at the top of the calendar.
 
-- 🔍 **Day Grid View**  
-  Presents the days of the month in a grid format starting from Sunday, with proper alignment based on the first day of the month.
+- 📅 **Day Grid View**  
+  Renders a full monthly view in a 7-column grid, with correct weekday alignment.
 
-- 🎯 **Today Highlight**  
-  Automatically highlights today’s date to help users identify the current day at a glance.
+- 🎯 **Highlight Today's Date**  
+  Automatically marks today’s date for quick recognition.
 
 - 🖱️ **Interactive Hover Effects**  
-  Days are visually enhanced with smooth hover effects to improve interactivity and engagement.
+  Hovering over date cells provides subtle visual feedback.
 
-- 📱 **Responsive Design**  
-  Calendar layout adjusts gracefully across different screen sizes — mobile, tablet, and desktop.
+- 📱 **Responsive Layout**  
+  Works beautifully across devices — from desktops to mobile screens.
 
 ---
 
 ## 🛠️ Technologies Used
 
-| Technology      | Purpose                                           |
-|------------------|---------------------------------------------------|
-| **HTML5**         | Structuring the calendar layout                  |
-| **CSS3**          | Styling, transitions, responsiveness             |
-| **JavaScript (Vanilla)** | Dynamic month rendering, logic, and navigation |
-| **Font Awesome**  | Used for arrow icons (left/right navigation)     |
+| Technology          | Role/Function                                 |
+|----------------------|-----------------------------------------------|
+| **HTML5**             | Markup and layout structure                   |
+| **CSS3**              | Styling, animations, responsiveness           |
+| **JavaScript (Vanilla)** | Dynamic date logic, rendering, navigation   |
+| **Font Awesome**      | Icon support for navigation arrows            |
 
----
 
 ## 📸 Screenshot
 
